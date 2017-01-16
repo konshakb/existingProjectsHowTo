@@ -1,6 +1,8 @@
+
 # existingProjectsHowTo
 
-This guide shows you how to move projects from a linux server to github.  
+This guide shows you how to move projects from a linux server to github. 
+I added an assignment from 161 to this repo.
 Source Cited:
 https://help.github.com/articles/adding-an-existing-project-to-github-using-the-command-line/#platform-linux
 
